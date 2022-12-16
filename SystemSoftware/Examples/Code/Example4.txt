@@ -1,0 +1,2 @@
+let secondTest: number = true;
+let test: undefined = 10 + 15 * 8;

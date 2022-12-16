@@ -1,0 +1,2 @@
+12312 = true;
+let test: number = 10 + 15 * 8;

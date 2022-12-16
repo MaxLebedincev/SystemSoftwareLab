@@ -1,0 +1,12 @@
+ let counter = 0 ;
+ let test = 10 + 15 * 8 ;
+ let secondCounter = 0 ;
+ while ( test < 50 ) {
+ if ( test % 2 == 1 ) {
+ secondCounter += test ++ ;
+ }
+ else {
+ test ++ ;
+ }
+ }
+
